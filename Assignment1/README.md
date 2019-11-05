@@ -19,5 +19,5 @@ Please create all of the following:
 5. Create a function takes a user-supplied String input, sliceMe. Use slicing to return a list that contains every other letter in the word supplied.
 
 
-In this assignment, I implemented 5 functions including one Lambda function as instructed. For every question I interpreted the word until as an inclusive. For question 2-5, I printed out all the returning lists for the convenience of checking if the results are correct. I also implemented extra conditional statements for question 1-2 to ensure the inputs are in correct types to prevent for having errors. I did not do extra input checking for question 3 due to the simplicity of one line code, similarily to Lambda function.
+In this assignment, I implemented 5 functions including one Lambda function as instructed. For every question I interpreted the word "until" as an inclusive. For question 2-5, I printed out all the returning lists for the convenience of checking if the results are correct. I also implemented extra conditional statements for question 1-2 to ensure the inputs are in correct types to prevent for having errors. I did not do extra input checking for question 3 due to the simplicity of one line code, similarily to Lambda function.
 
