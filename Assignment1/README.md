@@ -1,5 +1,4 @@
 
-<<<<<<< HEAD
 ## Assignment1 
 The whole assignment was written and tested with Sublime, Linux Python3 command line 
 
