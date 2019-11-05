@@ -1,4 +1,5 @@
 
+<<<<<<< HEAD
 ## Assignment1 
 The whole assignment was written and tested with Sublime, Linux Python3 command line 
 
@@ -25,3 +26,5 @@ In this assignment, I implemented 5 functions including one Lambda function as i
 
 
 
+=======
+>>>>>>> 0d8e1384dc16959a4ef53261ae3b64eb2fea15c9
