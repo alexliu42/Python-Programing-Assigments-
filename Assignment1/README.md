@@ -21,9 +21,3 @@ Please create all of the following:
 
 In this assignment, I implemented 5 functions including one Lambda function as instructed. For every question I interpreted the word until as an inclusive. For question 2-5, I printed out all the returning lists for the convenience of checking if the results are correct. I also implemented extra conditional statements for question 1-2 to ensure the inputs are in correct types to prevent for having errors. I did not do extra input checking for question 3 due to the simplicity of one line code, similarily to Lambda function.
 
-
-
-
-
-=======
->>>>>>> 0d8e1384dc16959a4ef53261ae3b64eb2fea15c9
