@@ -30,7 +30,7 @@ Please do the following:
 
 In this assignment, I used a GET request to receive the contents from the given URL. Later on I put the receiving data into json format. The json file is written in a dictionary format with three levels of data, and the description field I want is located at the second level. 
 
-To obtain the description field I want, I implemented the nested loops to iterate through data. The first level of dictionary containing the data type of int, bool and list. If the key type is a list then we iterate through the list that contain a list of dictionaries in the second level. Another for loop is written to iterate through the keys and values in the every single dictionary I iterated from the list. If the key is description and the value is not null then I print the key and value. Everytime we found the description field we add 1 to count which was initialized as zero, so we can trace down to terminate the nested loops before it reaches 10 and successfully obtain 10 description fields.
+To obtain the description field I want, I implemented the nested loops to iterate through data. The first level of dictionary containing the data type of int, bool and list. If the key type is a list then I iterate through the list that contain a list of dictionaries in the second level. Another for loop was written to iterate through the keys and values in every single dictionary I iterated from the list. If the key is description and the value is not null then I print the key and value. Everytime one is added to the count variable (initialized as zero), when the description field is found. This allowed me to trace down the counts to terminate the nested loops before reaching ten, and ultimately obtain ten description fields.
 
 
  
