@@ -6,7 +6,7 @@ The whole assignment is written and tested with Sublime, Linux Python command li
 
 In the linux command console, you can run:
 
-### "python Assignment4.py" 
+### python Assignment4.py
 
 
 
