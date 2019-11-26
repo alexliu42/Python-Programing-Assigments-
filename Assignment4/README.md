@@ -3,9 +3,12 @@
 
 The whole assignment is written and tested with Sublime, Linux Python command line. 
 
+
 In the linux command console, you can run:
 
 ### "python Assignment4.py" 
+
+
 
 The assignment is mostly implemented as instructed from class. The only thing that is different:
 
