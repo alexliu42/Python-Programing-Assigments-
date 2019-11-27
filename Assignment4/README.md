@@ -18,6 +18,7 @@ Please complete the following:
 •	The URL endpoint is: https://wallhaven.cc/search?categories=100&purity=100&topRange=1y&sorting=toplist&order=desc
 
 •	You will need to make a request to this URL and store the content.
+
 •	Use BeautifulSoup to find all the image thumbnails and the links in them to the final (full-sized) images. Store these in a list to iterate over.
 
 •	Visit each of the full-size image links and use BeautifulSoup to find the final image link (ends with .jpg/.png etc).
