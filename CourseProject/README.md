@@ -1,7 +1,7 @@
 
 ## CourseProject 
 
-The whole assignment is written and tested with Sublime, Python 2.7, and used the library of scrapy.
+The whole assignment is written and tested with Sublime, Python 2.7, and used the library of scrapy and Pandas.
 
 
 In the linux command console, you can first run:
