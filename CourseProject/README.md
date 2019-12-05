@@ -27,6 +27,7 @@ You will be tasked with doing the following:
     6. In a separate python file, read in the CSV and clean the data up a bit if needed (eg. Price)
     7. Plot a histogram (You can adjust the bins) of the data to get a visual of the price distribution
 
+The URL I picked for the project is https://vancouver.craigslist.org/d/cars-trucks/search/cta, the car selling page on Craigslist.
 
 The project is coded with two files, CraigslistScraping.py and PandaAnalysis.py. CraigslistScraping.py uses scrapy module to scrape the Adtitle, AdPrice, Posting Date of the car selling page on Craigslist. Once the information has been scraped by the script, user is allowed to use PandaAnalysis.py under PandaAnalysis folder to see the histogram of price distribution dynamically synchronised with the website once the project is ran. 
 
