@@ -30,5 +30,5 @@ You will be tasked with doing the following:
 
 The project is coded with two files, CraigslistScraping.py and PandaAnalysis.py. CraigslistScraping.py uses scrapy module to scrape the Adtitle, AdPrice, Posting Date of the car selling page on Craigslist. Once the information has been scraped by the script, user is allowed to use PandaAnalysis.py under PandaAnalysis folder to see the histogram of price distribution dynamically synchronised with the website once the project is ran. 
 
-*A json file and a csv file are both produced from CraigslistScraping.py cotaining the same information scraped from the website
+*A json file and a csv file are both produced from CraigslistScraping.py containing the same information scraped from the website.
 *PandaAnalysis.py is seperated with another folder PandaAnalysis/PandaAnalysis.py, because I found out the file runs prior to CraigslistScraping.py everytime I type scrapy crawl command, which will result into an error initially without the csv file existed.
